@@ -1,0 +1,2347 @@
+TAquarium
+v7
+r0
+t326371433.057539
+cCheck dependencies
+cProcessInfoPlistFile /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Info.plist Aquarium-Info.plist
+cCompileXIB /Users/zendiya/Documents/Project_IOS/Aquarium/MainWindow.xib
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/click.wav Resource/click.wav
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/back_m.mp3 Resource/back_m.mp3
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/yes.wav Resource/yes.wav
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/damg.wav Resource/damg.wav
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/yes2.wav Resource/yes2.wav
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/end.wav Resource/end.wav
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Default.png Resource/Default.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Icon-small.png Resource/Icon-small.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Icon.png Resource/Icon.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/ke1.qda Resource/ke1.qda
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/ke2.qda Resource/ke2.qda
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/ek2.qda Resource/ek2.qda
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/ek1.qda Resource/ek1.qda
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/ee1.qda Resource/ee1.qda
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/help_all.png Resource/help_all.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/combo_num.png Resource/combo_num.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/combo.png Resource/combo.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank_Menu.png Resource/Rank_Menu.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/result.png Resource/result.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank_name.png Resource/Rank_name.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/medal.png Resource/medal.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Help.png Resource/Help.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank.png Resource/Rank.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Number.png Resource/Number.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/q2.png Resource/q2.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/q1.png Resource/q1.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/exit.png Resource/exit.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/score.png Resource/score.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/bord.png Resource/bord.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/menu_icon2.png Resource/menu_icon2.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/menu_icon.png Resource/menu_icon.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/water_a.png Resource/water_a.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_2.png Resource/Player_Fish_2.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Rage.png Resource/Player_Fish_Rage.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/window1.png Resource/window1.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/effect.png Resource/effect.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_sky.png Resource/Player_Fish_sky.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_blue.png Resource/Player_Fish_blue.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Yellow.png Resource/Player_Fish_Yellow.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/init_480_320.png Resource/init_480_320.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/back512.png Resource/back512.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/bubble.png Resource/bubble.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Fishs.png Resource/Fishs.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/vocacity.png Resource/vocacity.png
+cCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish.png Resource/Player_Fish.png
+cProcessPCH /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-dplxdjovkgnfvmfxafcladowjgmd/Aquarium_Prefix.pch.gch Aquarium_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch.gch Aquarium_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch.gch Aquarium_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/main.o /Users/zendiya/Documents/Project_IOS/Aquarium/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/AquariumAppDelegate.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/AquariumAppDelegate.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/GLView.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/GLView.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Sprite.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Sprite.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FD_2DData.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/FD_2DData.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_MATH.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_MATH.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Device.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Device.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Vertex.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Vertex.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_Memory.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_Memory.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Data.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Data.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_TexLib.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_TexLib.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Texture.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Texture.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_LList.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_LList.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IDCode.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_IDCode.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GLES_Define.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GLES_Define.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_RSprite.o /Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_RSprite.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_2DEffect.o /Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_2DEffect.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Game_RF.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Game_RF.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Player.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Player.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Audio.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Audio.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Main.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_File.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_File.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Interface.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Interface.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_View.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_View.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium normal i386
+cGenerateDSYMFile /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app.dSYM /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium
+cTouch /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004CC12884000000000000145D
+t1287727236
+s5213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004CC1222F0000000000010AAC
+t1287725615
+s68268
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC1226400000000000246A0
+t1287725668
+s149152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h
+c000000004CC1230800000000000092AA
+t1287725832
+s37546
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/glext.h
+c000000004CC1230800000000000026AA
+t1287725832
+s9898
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Aquarium_Prefix.pch
+c000000004DBA6EC200000000000000B9
+t1304063682
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/AquariumAppDelegate.h
+c000000004DBCE916000000000000019D
+t1304226070
+s413
+i"GLView.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/AquariumAppDelegate.mm
+c000000004DBD02C600000000000008E0
+t1304232646
+s2272
+i"AquariumAppDelegate.h"
+i"F_IOS_File.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Game_RF.cpp
+c000000004DC3941D000000000001064F
+t1304663069
+s67151
+i"FG_Game_RF.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Game_RF.h
+c000000004DC1172F0000000000000A42
+t1304500015
+s2626
+i"F_IOS_File.h"
+i"F_GLES_Define.h"
+i"F_GL_Device.h"
+i"F_GL_RSprite.h"
+i"FG_Player.h"
+i"F_IOS_Audio.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Player.cpp
+c000000004DC3941E0000000000009046
+t1304663070
+s36934
+i"FG_Player.h"
+i"F_IOS_Audio.h"
+i"F_Memory.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Player.h
+c000000004DC1305400000000000010B7
+t1304506452
+s4279
+i"F_GL_RSprite.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Audio.h
+c000000004DB8F06400000000000004A1
+t1303965796
+s1185
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Audio.mm
+c000000004DC39846000000000000138E
+t1304664134
+s5006
+i<UIKit/UIKit.h>
+i<AudioToolBox/AudioServices.h>
+i<AVFoundation/AVAudioPlayer.h>
+i"F_IOS_Audio.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_File.h
+c000000004DBEBC290000000000000418
+t1304345641
+s1048
+i<string>
+i<iostream>
+i"FD_2DData.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_File.mm
+c000000004DC168A00000000000001213
+t1304520864
+s4627
+i"GLView.h"
+i"F_GLES_Define.h"
+i"F_IOS_File.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Interface.cpp
+c000000004DC0C55300000000000005E7
+t1304479059
+s1511
+i"F_IOS_Main.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Interface.h
+c000000004DC0C5530000000000000413
+t1304479059
+s1043
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Main.cpp
+c000000004DC0C7080000000000001F7E
+t1304479496
+s8062
+i"F_IOS_Main.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Main.h
+c000000004DC0C708000000000000048A
+t1304479496
+s1162
+i"FG_Game_RF.h"
+i"F_IOS_Interface.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_View.h
+c000000004DC186D500000000000001D1
+t1304528597
+s465
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_View.mm
+c000000004DC186D500000000000006D7
+t1304528597
+s1751
+i"F_IOS_View.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/GLView.h
+c000000004DBCF7CB00000000000004D5
+t1304229835
+s1237
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"F_IOS_Interface.h"
+i"F_IOS_View.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/GLView.mm
+c000000004DC166EF0000000000001C98
+t1304520431
+s7320
+i"GLView.h"
+i"F_IOS_File.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_2DEffect.cpp
+c000000004DC12FCD00000000000069AE
+t1304506317
+s27054
+i"F_GL_2DEffect.h"
+i"F_Memory.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_2DEffect.h
+c000000004DC1262D00000000000013D4
+t1304503853
+s5076
+i"F_GL_Sprite.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_RSprite.cpp
+c000000004DC109E90000000000008B72
+t1304496617
+s35698
+i"F_GL_RSprite.h"
+i"F_Memory.h"
+i"F_IOS_Audio.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_RSprite.h
+c000000004DBF9CBC00000000000015BA
+t1304403132
+s5562
+i"F_GL_2DEffect.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/FD_2DData.cpp
+c000000004DC0B90200000000000016E3
+t1304475906
+s5859
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"FD_2DData.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/FD_2DData.h
+c000000004DBEBC29000000000000072E
+t1304345641
+s1838
+i<math.h>
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Data.cpp
+c000000004DAC153B00000000000017A4
+t1303123259
+s6052
+i"F_Memory.h"
+i"F_3D_Data.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Data.h
+c000000004DAC1618000000000000083F
+t1303123480
+s2111
+i"F_3D_MATH.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_MATH.cpp
+c000000004DB5057F0000000000001EF4
+t1303709055
+s7924
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"F_3D_MATH.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_MATH.h
+c000000004DB942AE000000000000096F
+t1303986862
+s2415
+i<math.h>
+i"F_IDCode.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Vertex.cpp
+c000000004DAD56BD00000000000008C1
+t1303205565
+s2241
+i"F_3D_Vertex.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Vertex.h
+c000000004DAD56BD0000000000000421
+t1303205565
+s1057
+i"F_LList.h"
+i"F_3D_Data.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GLES_Define.cpp
+c000000004DA6636900000000000001A9
+t1302750057
+s425
+i"F_GLES_Define.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GLES_Define.h
+c000000004DA6636900000000000001C6
+t1302750057
+s454
+i<stdio.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Device.cpp
+c000000004DB1021C00000000000016B2
+t1303446044
+s5810
+i"F_GLES_Define.h"
+i"F_GL_Device.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Device.h
+c000000004DB0F3F0000000000000080B
+t1303442416
+s2059
+i"FD_2DData.h"
+i"F_3D_MATH.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Sprite.cpp
+c000000004DB90C240000000000001A04
+t1303972900
+s6660
+i"F_GL_Sprite.h"
+i"F_Memory.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Sprite.h
+c000000004DB90C24000000000000089D
+t1303972900
+s2205
+i"F_GL_TexLib.h"
+i"F_3D_Vertex.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_TexLib.cpp
+c000000004DBEBD470000000000000BBA
+t1304345927
+s3002
+i"F_GL_TexLib.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_TexLib.h
+c000000004DBEBD35000000000000045A
+t1304345909
+s1114
+i"F_GL_Texture.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Texture.cpp
+c000000004DC00DF800000000000012DB
+t1304432120
+s4827
+i"F_GL_Texture.h"
+i"F_Memory.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Texture.h
+c000000004DBEBC290000000000000690
+t1304345641
+s1680
+i"F_IOS_File.h"
+i"F_LList.h"
+i"F_GLES_Define.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_IDCode.cpp
+c000000004DABD3910000000000000342
+t1303106449
+s834
+i"F_IDCode.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_IDCode.h
+c000000004DAC143B000000000000032F
+t1303123003
+s815
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_LList.cpp
+c000000004DABD65300000000000037C1
+t1303107155
+s14273
+i"F_LList.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_LList.h
+c000000004DABFE2D0000000000000BEB
+t1303117357
+s3051
+i"F_IDCode.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_Memory.cpp
+c000000004DAC153B00000000000001E2
+t1303123259
+s482
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"F_Memory.h"
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_Memory.h
+c000000004DAC149800000000000000D2
+t1303123096
+s210
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Fishs.png
+c000000004DB12101000000000000E047
+t1303453953
+s57415
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Help.png
+c000000004DC0CF8300000000000015A3
+t1304481667
+s5539
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/MainWindow.xib
+c000000004DC3D0CE0000000000006917
+t1304678606
+s26903
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Number.png
+c000000004DC0B5390000000000003669
+t1304474937
+s13929
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish.png
+c000000004DAFDDC9000000000000B8F6
+t1303371209
+s47350
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_2.png
+c000000004DBA7434000000000000F7E3
+t1304065076
+s63459
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_Rage.png
+c000000004DBA4B88000000000000FA08
+t1304054664
+s64008
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_Yellow.png
+c000000004DB8D404000000000000AE77
+t1303958532
+s44663
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_blue.png
+c000000004DB8D405000000000000AC6F
+t1303958533
+s44143
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_sky.png
+c000000004DB8D407000000000000B060
+t1303958535
+s45152
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Rank.png
+c000000004DC0CF8200000000000014D9
+t1304481666
+s5337
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Rank_Menu.png
+c000000004DC0F2CA0000000000002042
+t1304490698
+s8258
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Rank_name.png
+c000000004DC0F1E10000000000001DD6
+t1304490465
+s7638
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Default.png
+c000000004DAC988C000000000003428D
+t1303156876
+s213645
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Fishs.png
+c000000004DB12101000000000000E047
+t1303453953
+s57415
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Help.png
+c000000004DC0CF8300000000000015A3
+t1304481667
+s5539
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Icon-small.png
+c000000004DBE79C60000000000000AEB
+t1304328646
+s2795
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Icon.png
+c000000004DBE6ED8000000000000293A
+t1304325848
+s10554
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Number.png
+c000000004DC0B5390000000000003669
+t1304474937
+s13929
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish.png
+c000000004DAFDDC9000000000000B8F6
+t1303371209
+s47350
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_2.png
+c000000004DBA7434000000000000F7E3
+t1304065076
+s63459
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_Rage.png
+c000000004DBA4B88000000000000FA08
+t1304054664
+s64008
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_Yellow.png
+c000000004DB8D404000000000000AE77
+t1303958532
+s44663
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_blue.png
+c000000004DB8D405000000000000AC6F
+t1303958533
+s44143
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_sky.png
+c000000004DB8D407000000000000B060
+t1303958535
+s45152
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank.png
+c000000004DC0CF8200000000000014D9
+t1304481666
+s5337
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank_Menu.png
+c000000004DC0F2CA0000000000002042
+t1304490698
+s8258
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank_name.png
+c000000004DC0F1E10000000000001DD6
+t1304490465
+s7638
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/back512.png
+c000000004DB509E9000000000005E395
+t1303710185
+s385941
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/back_m.mp3
+c000000004DB8F9050000000000032FEE
+t1303968005
+s208878
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/bord.png
+c000000004DBE9A9B0000000000000398
+t1304337051
+s920
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/bubble.png
+c000000004DB12FD90000000000000FA7
+t1303457753
+s4007
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/click.wav
+c000000004DB908BF0000000000006C42
+t1303972031
+s27714
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/combo.png
+c000000004DC10BC90000000000001A2A
+t1304497097
+s6698
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/combo_num.png
+c000000004DC10BCA0000000000001F54
+t1304497098
+s8020
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/damg.wav
+c000000004DBA2EC9000000000002A676
+t1304047305
+s173686
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ee1.qda
+c000000004DBE76680000000000000F6C
+t1304327784
+s3948
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/effect.png
+c000000004DB904120000000000012FCE
+t1303970834
+s77774
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ek1.qda
+c000000004DBE766800000000000011C2
+t1304327784
+s4546
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ek2.qda
+c000000004DBE766900000000000012ED
+t1304327785
+s4845
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/end.wav
+c000000004DB8C68200000000000151AC
+t1303955074
+s86444
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/exit.png
+c000000004DBFC9EA0000000000001024
+t1304414698
+s4132
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/help_all.png
+c000000004DC1136F00000000000DD3C9
+t1304499055
+s906185
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/init_480_320.png
+c000000004DB8D3780000000000030571
+t1303958392
+s198001
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ke1.qda
+c000000004DBE66A90000000000000FD7
+t1304323753
+s4055
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ke2.qda
+c000000004DBE4F9100000000000010C9
+t1304317841
+s4297
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/medal.png
+c000000004DC0F1E0000000000000196D
+t1304490464
+s6509
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/menu_icon.png
+c000000004DBE71F1000000000000C53D
+t1304326641
+s50493
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/menu_icon2.png
+c000000004DBE726F00000000000057E2
+t1304326767
+s22498
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/q1.png
+c000000004DC0AEDF0000000000001E94
+t1304473311
+s7828
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/q2.png
+c000000004DC0AEE100000000000020AD
+t1304473313
+s8365
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/result.png
+c000000004DC0F27700000000000014CF
+t1304490615
+s5327
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/score.png
+c000000004DBFC7B80000000000002157
+t1304414136
+s8535
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/vocacity.png
+c000000004DAFF5D900000000000040DC
+t1303377369
+s16604
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/water_a.png
+c000000004DBE63C90000000000002EAD
+t1304323017
+s11949
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/window1.png
+c000000004DB9537C0000000000000AC9
+t1303991164
+s2761
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/yes.wav
+c000000004DBA2ECA00000000000273B8
+t1304047306
+s160696
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/yes2.wav
+c000000004DB8C7280000000000007E2C
+t1303955240
+s32300
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/back512.png
+c000000004DB509E9000000000005E395
+t1303710185
+s385941
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/bord.png
+c000000004DBE9A9B0000000000000398
+t1304337051
+s920
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/bubble.png
+c000000004DB12FD90000000000000FA7
+t1303457753
+s4007
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/Aquarium.LinkFileList
+c000000004DC3D0DC0000000000000D88
+t1304678620
+s3464
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/AquariumAppDelegate.o
+t1304678627
+s95852
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FD_2DData.o
+t1304678627
+s8796
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Game_RF.o
+t1304678632
+s157588
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Player.o
+t1304678631
+s116384
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Data.o
+t1304678628
+s13968
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_MATH.o
+t1304678627
+s14752
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Vertex.o
+t1304678628
+s10800
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GLES_Define.o
+t1304678629
+s2692
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_2DEffect.o
+t1304678629
+s92144
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Device.o
+t1304678628
+s15108
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_RSprite.o
+t1304678629
+s103180
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Sprite.o
+t1304678627
+s63804
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_TexLib.o
+t1304678628
+s56480
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Texture.o
+t1304678628
+s60944
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IDCode.o
+t1304678628
+s3580
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Audio.o
+t1304678631
+s17600
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_File.o
+t1304678632
+s91892
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Interface.o
+t1304678632
+s78184
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Main.o
+t1304678631
+s82948
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_View.o
+t1304678632
+s40952
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_LList.o
+t1304678628
+s23864
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_Memory.o
+t1304678628
+s2760
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/GLView.o
+t1304678627
+s100308
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/main.o
+t1304678626
+s6304
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/StaticAnalyzer/normal/i386/main.plist
+t1304669470
+s276
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app
+t1304678633
+s1734
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app.dSYM
+t1304678633
+s102
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium
+t1304678632
+s183896
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Default.png
+t1304678620
+s213645
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Fishs.png
+t1304678620
+s57415
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Help.png
+t1304678620
+s5539
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Icon-small.png
+t1304678620
+s2795
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Icon.png
+t1304678620
+s10554
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Info.plist
+t1304678620
+s788
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/MainWindow.nib
+t1304678621
+s1883
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Number.png
+t1304678620
+s13929
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/PkgInfo
+t1304678620
+s8
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Player_Fish.png
+t1304678620
+s47350
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_2.png
+t1304678620
+s63459
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Rage.png
+t1304678620
+s64008
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Yellow.png
+t1304678620
+s44663
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_blue.png
+t1304678620
+s44143
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_sky.png
+t1304678620
+s45152
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Rank.png
+t1304678620
+s5337
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Rank_Menu.png
+t1304678620
+s8258
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Rank_name.png
+t1304678620
+s7638
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/back512.png
+t1304678620
+s385941
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/back_m.mp3
+t1304678620
+s208878
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/bord.png
+t1304678620
+s920
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/bubble.png
+t1304678620
+s4007
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/click.wav
+t1304678620
+s27714
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/combo.png
+t1304678620
+s6698
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/combo_num.png
+t1304678620
+s8020
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/damg.wav
+t1304678620
+s173686
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/ee1.qda
+t1304678620
+s3948
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/effect.png
+t1304678620
+s77774
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/ek1.qda
+t1304678620
+s4546
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/ek2.qda
+t1304678620
+s4845
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/end.wav
+t1304678620
+s86444
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/exit.png
+t1304678620
+s4132
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/help_all.png
+t1304678620
+s906185
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/init_480_320.png
+t1304678620
+s198001
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/ke1.qda
+t1304678620
+s4055
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/ke2.qda
+t1304678620
+s4297
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/medal.png
+t1304678620
+s6509
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/menu_icon.png
+t1304678620
+s50493
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/menu_icon2.png
+t1304678620
+s22498
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/q1.png
+t1304678620
+s7828
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/q2.png
+t1304678620
+s8365
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/result.png
+t1304678620
+s5327
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/score.png
+t1304678620
+s8535
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/vocacity.png
+t1304678620
+s16604
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/water_a.png
+t1304678620
+s11949
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/window1.png
+t1304678620
+s2761
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/yes.wav
+t1304678620
+s160696
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/yes2.wav
+t1304678620
+s32300
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/combo.png
+c000000004DC10BC90000000000001A2A
+t1304497097
+s6698
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/combo_num.png
+c000000004DC10BCA0000000000001F54
+t1304497098
+s8020
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/effect.png
+c000000004DB904120000000000012FCE
+t1303970834
+s77774
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/exit.png
+c000000004DBFC9EA0000000000001024
+t1304414698
+s4132
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/help_all.png
+c000000004DC1136F00000000000DD3C9
+t1304499055
+s906185
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/init_480_320.png
+c000000004DB8D3780000000000030571
+t1303958392
+s198001
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/main.m
+c000000004DBA6EC20000000000000168
+t1304063682
+s360
+i<UIKit/UIKit.h>
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/medal.png
+c000000004DC0F1E0000000000000196D
+t1304490464
+s6509
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/menu_icon.png
+c000000004DBE71F1000000000000C53D
+t1304326641
+s50493
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/menu_icon2.png
+c000000004DBE726F00000000000057E2
+t1304326767
+s22498
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/q1.png
+c000000004DC0AEDF0000000000001E94
+t1304473311
+s7828
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/q2.png
+c000000004DC0AEE100000000000020AD
+t1304473313
+s8365
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/result.png
+c000000004DC0F27700000000000014CF
+t1304490615
+s5327
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/score.png
+c000000004DBFC7B80000000000002157
+t1304414136
+s8535
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/vocacity.png
+c000000004DAFF5D900000000000040DC
+t1303377369
+s16604
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/water_a.png
+c000000004DBE63C90000000000002EAD
+t1304323017
+s11949
+
+N/Users/zendiya/Documents/Project_IOS/Aquarium/window1.png
+c000000004DB9537C0000000000000AC9
+t1303991164
+s2761
+
+N/var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-asdhsylyknelklguugsoqhfextqx/Aquarium_Prefix.pch.pth
+t1304512461
+s2782796
+
+N/var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch.gch
+t1304678626
+s2515312
+
+N/var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-dplxdjovkgnfvmfxafcladowjgmd/Aquarium_Prefix.pch.gch
+t1304678625
+s15113424
+
+N/var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch.gch
+t1304678626
+s16518224
+
+NAquarium-Info.plist
+c000000004DC3ACD9000000000000045B
+t1304669401
+s1115
+
+CAnalyze /Users/zendiya/Documents/Project_IOS/Aquarium/main.m
+s326362270.423753
+e326362270.477158
+r1
+xAnalyze
+x/Users/zendiya/Documents/Project_IOS/Aquarium/main.m
+lSLF07#2@60"Analyze /Users/zendiya/Documents/Project_IOS/Aquarium/main.m326362270#326362270#0(0"0(0#0#52"/Users/zendiya/Documents/Project_IOS/Aquarium/main.m8634063104#2124"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-asdhsylyknelklguugsoqhfextqx/Aquarium_Prefix.pch --analyze /Users/zendiya/Documents/Project_IOS/Aquarium/main.m -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326371420#326371420#0(0"0(0#1#0"8635853568#0"0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/AquariumAppDelegate.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/AquariumAppDelegate.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s326371426.672212
+e326371427.320304
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/AquariumAppDelegate.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/AquariumAppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/AquariumAppDelegate.mm326371426#326371427#0(0"0(0#0#76"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/AquariumAppDelegate.mm8639139808#2175"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/AquariumAppDelegate.mm -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/AquariumAppDelegate.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FD_2DData.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/FD_2DData.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371427.554196
+e326371427.748923
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FD_2DData.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/FD_2DData.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/FD_2DData.cpp326371427#326371427#0(0"0(0#0#72"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/FD_2DData.cpp8636935904#2109"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/FD_2DData.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FD_2DData.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Game_RF.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Game_RF.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s326371429.887194
+e326371432.139056
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Game_RF.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Game_RF.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Game_RF.cpp326371429#326371432#0(0"0(0#0#68"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Game_RF.cpp8631459232#2104"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Game_RF.cpp -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Game_RF.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Player.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Player.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s326371429.987373
+e326371431.137878
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Player.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Player.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Player.cpp326371429#326371431#0(0"0(0#0#67"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Player.cpp8617506240#2102"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/FG_Player.cpp -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/FG_Player.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Data.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Data.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371428.137966
+e326371428.311747
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Data.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Data.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Data.cpp326371428#326371428#0(0"0(0#0#72"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Data.cpp8639326656#2109"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Data.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Data.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_MATH.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_MATH.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371427.749053
+e326371427.975400
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_MATH.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_MATH.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_MATH.cpp326371427#326371427#0(0"0(0#0#72"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_MATH.cpp8631082688#2109"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_MATH.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_MATH.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Vertex.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Vertex.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371427.975534
+e326371428.100159
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Vertex.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Vertex.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Vertex.cpp326371427#326371428#0(0"0(0#0#74"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Vertex.cpp8590279232#2113"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_3D_Vertex.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_3D_Vertex.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GLES_Define.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GLES_Define.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371428.934564
+e326371429.009652
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GLES_Define.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GLES_Define.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GLES_Define.cpp326371428#326371429#0(0"0(0#0#76"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GLES_Define.cpp8637655936#2117"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GLES_Define.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GLES_Define.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_2DEffect.o /Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_2DEffect.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s326371429.009779
+e326371429.886938
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_2DEffect.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_2DEffect.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_2DEffect.cpp326371429#326371429#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_2DEffect.cpp8635067232#2102"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_2DEffect.cpp -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_2DEffect.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Device.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Device.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371427.937578
+e326371428.137837
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Device.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Device.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Device.cpp326371427#326371428#0(0"0(0#0#74"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Device.cpp8614734336#2113"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Device.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Device.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_RSprite.o /Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_RSprite.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s326371428.984566
+e326371429.987245
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_RSprite.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_RSprite.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_RSprite.cpp326371428#326371429#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_RSprite.cpp8635767200#2100"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/F_GL_RSprite.cpp -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_RSprite.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Sprite.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Sprite.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371427.320435
+e326371427.937441
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Sprite.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Sprite.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Sprite.cpp326371427#326371427#0(0"0(0#0#74"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Sprite.cpp8618680224#2113"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Sprite.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Sprite.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_TexLib.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_TexLib.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371428.214473
+e326371428.726725
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_TexLib.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_TexLib.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_TexLib.cpp326371428#326371428#0(0"0(0#0#74"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_TexLib.cpp8637057664#2113"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_TexLib.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_TexLib.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Texture.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Texture.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371428.311884
+e326371428.917040
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Texture.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Texture.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Texture.cpp326371428#326371428#0(0"0(0#0#75"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Texture.cpp8634651680#2115"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_GL_Texture.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_GL_Texture.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IDCode.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_IDCode.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371428.917176
+e326371428.984454
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IDCode.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_IDCode.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_IDCode.cpp326371428#326371428#0(0"0(0#0#71"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_IDCode.cpp8639764160#2107"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_IDCode.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IDCode.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Audio.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Audio.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s326371431.137999
+e326371431.327525
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Audio.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Audio.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Audio.mm326371431#326371431#0(0"0(0#0#68"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Audio.mm8634050656#2159"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Audio.mm -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Audio.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_File.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_File.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s326371431.898967
+e326371432.483594
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_File.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_File.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_File.mm326371431#326371432#0(0"0(0#0#67"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_File.mm8635465408#2157"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_File.mm -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_File.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Interface.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Interface.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s326371432.139187
+e326371432.706676
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Interface.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Interface.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Interface.cpp326371432#326371432#0(0"0(0#0#73"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Interface.cpp8632751968#2114"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Interface.cpp -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Interface.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Main.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s326371431.327648
+e326371431.898688
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Main.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Main.cpp326371431#326371431#0(0"0(0#0#68"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Main.cpp8636851744#2104"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_Main.cpp -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_Main.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_View.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_View.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s326371432.483720
+e326371432.605709
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_View.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_View.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_View.mm326371432#326371432#0(0"0(0#0#67"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_View.mm8617168224#2157"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/F_IOS_View.mm -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_IOS_View.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_LList.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_LList.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371428.726856
+e326371428.934431
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_LList.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_LList.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_LList.cpp326371428#326371428#0(0"0(0#0#70"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_LList.cpp8617766304#2105"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_LList.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_LList.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_Memory.o "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_Memory.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s326371428.100292
+e326371428.214335
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_Memory.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_Memory.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_Memory.cpp326371428#326371428#0(0"0(0#0#71"/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_Memory.cpp8634375584#2107"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch -c "/Users/zendiya/Documents/Project_IOS/Aquarium/Final Engine/F_Memory.cpp" -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/F_Memory.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/GLView.o /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/GLView.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s326371426.829339
+e326371427.553925
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/GLView.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/GLView.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/GLView.mm326371426#326371427#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Classes/GLView.mm8634686560#2149"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/Classes/GLView.mm -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/GLView.o0#
+
+CCompileC build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/main.o /Users/zendiya/Documents/Project_IOS/Aquarium/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326371426.670659
+e326371426.829212
+r1
+xCompileC
+xbuild/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/main.o
+x/Users/zendiya/Documents/Project_IOS/Aquarium/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/zendiya/Documents/Project_IOS/Aquarium/main.m326371426#326371426#0(0"0(0#0#52"/Users/zendiya/Documents/Project_IOS/Aquarium/main.m8643860128#2115"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-dplxdjovkgnfvmfxafcladowjgmd/Aquarium_Prefix.pch -c /Users/zendiya/Documents/Project_IOS/Aquarium/main.m -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zendiya/Documents/Project_IOS/Aquarium/MainWindow.xib
+s326371420.566098
+e326371421.278058
+r1
+xCompileXIB
+x/Users/zendiya/Documents/Project_IOS/Aquarium/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326371420#326371421#0(0"0(0#0#60"/Users/zendiya/Documents/Project_IOS/Aquarium/MainWindow.xib8643787104#599"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/MainWindow.nib /Users/zendiya/Documents/Project_IOS/Aquarium/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Default.png Resource/Default.png
+s326371420.571708
+e326371420.834888
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Default.png
+xResource/Default.png
+lSLF07#2@25"Copy Resource/Default.png326371420#326371420#0(0"0(0#0#66"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Default.png8636494944#528"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Default.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Fishs.png Fishs.png
+s326358238.842261
+e326358238.856138
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Fishs.png
+xFishs.png
+lSLF07#2@14"Copy Fishs.png326358238#326358238#0(0"0(0#0#55"/Users/zendiya/Documents/Project_IOS/Aquarium/Fishs.png8634553536#517"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Fishs.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Fishs.png Resource/Fishs.png
+s326371420.962626
+e326371421.020109
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Fishs.png
+xResource/Fishs.png
+lSLF07#2@23"Copy Resource/Fishs.png326371420#326371421#0(0"0(0#0#64"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Fishs.png8632028960#526"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Fishs.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Help.png Help.png
+s326358238.694807
+e326358238.719822
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Help.png
+xHelp.png
+lSLF07#2@13"Copy Help.png326358238#326358238#0(0"0(0#0#54"/Users/zendiya/Documents/Project_IOS/Aquarium/Help.png8622079744#516"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Help.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Help.png Resource/Help.png
+s326371420.835108
+e326371420.867669
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Help.png
+xResource/Help.png
+lSLF07#2@22"Copy Resource/Help.png326371420#326371420#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Help.png8643566976#525"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Help.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Icon-small.png Resource/Icon-small.png
+s326371420.572565
+e326371420.641896
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Icon-small.png
+xResource/Icon-small.png
+lSLF07#2@28"Copy Resource/Icon-small.png326371420#326371420#0(0"0(0#0#69"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Icon-small.png8636066528#531"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Icon-small.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Icon.png Resource/Icon.png
+s326371420.573428
+e326371420.644319
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Icon.png
+xResource/Icon.png
+lSLF07#2@22"Copy Resource/Icon.png326371420#326371420#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Icon.png8635861504#525"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Icon.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Number.png Number.png
+s326358238.703289
+e326358238.720078
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Number.png
+xNumber.png
+lSLF07#2@15"Copy Number.png326358238#326358238#0(0"0(0#0#56"/Users/zendiya/Documents/Project_IOS/Aquarium/Number.png8618111488#518"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Number.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Number.png Resource/Number.png
+s326371420.847274
+e326371420.868075
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Number.png
+xResource/Number.png
+lSLF07#2@24"Copy Resource/Number.png326371420#326371420#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Number.png8639201984#527"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Number.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish.png Player_Fish.png
+s326358238.848508
+e326358238.856435
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish.png
+xPlayer_Fish.png
+lSLF07#2@20"Copy Player_Fish.png326358238#326358238#0(0"0(0#0#61"/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish.png8633142624#523"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish.png Resource/Player_Fish.png
+s326371420.974419
+e326371420.995198
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish.png
+xResource/Player_Fish.png
+lSLF07#2@29"Copy Resource/Player_Fish.png326371420#326371420#0(0"0(0#0#70"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish.png8631131072#532"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_2.png Player_Fish_2.png
+s326358238.754330
+e326358238.815142
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_2.png
+xPlayer_Fish_2.png
+lSLF07#2@22"Copy Player_Fish_2.png326358238#326358238#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_2.png8617702560#525"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_2.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_2.png Resource/Player_Fish_2.png
+s326371420.894739
+e326371420.907332
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_2.png
+xResource/Player_Fish_2.png
+lSLF07#2@31"Copy Resource/Player_Fish_2.png326371420#326371420#0(0"0(0#0#72"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_2.png8635248128#534"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_2.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Rage.png Player_Fish_Rage.png
+s326358238.757021
+e326358238.814035
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Rage.png
+xPlayer_Fish_Rage.png
+lSLF07#2@25"Copy Player_Fish_Rage.png326358238#326358238#0(0"0(0#0#66"/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_Rage.png8617341440#528"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_Rage.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Rage.png Resource/Player_Fish_Rage.png
+s326371420.900237
+e326371420.962538
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Rage.png
+xResource/Player_Fish_Rage.png
+lSLF07#2@34"Copy Resource/Player_Fish_Rage.png326371420#326371420#0(0"0(0#0#75"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_Rage.png8634897728#537"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_Rage.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Yellow.png Player_Fish_Yellow.png
+s326358238.786120
+e326358238.815293
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Yellow.png
+xPlayer_Fish_Yellow.png
+lSLF07#2@27"Copy Player_Fish_Yellow.png326358238#326358238#0(0"0(0#0#68"/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_Yellow.png8616053632#530"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_Yellow.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Yellow.png Resource/Player_Fish_Yellow.png
+s326371420.927410
+e326371420.962401
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_Yellow.png
+xResource/Player_Fish_Yellow.png
+lSLF07#2@36"Copy Resource/Player_Fish_Yellow.png326371420#326371420#0(0"0(0#0#77"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_Yellow.png8633086880#539"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_Yellow.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_blue.png Player_Fish_blue.png
+s326358238.779592
+e326358238.814683
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_blue.png
+xPlayer_Fish_blue.png
+lSLF07#2@25"Copy Player_Fish_blue.png326358238#326358238#0(0"0(0#0#66"/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_blue.png8616483840#528"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_blue.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_blue.png Resource/Player_Fish_blue.png
+s326371420.921933
+e326371420.962275
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_blue.png
+xResource/Player_Fish_blue.png
+lSLF07#2@34"Copy Resource/Player_Fish_blue.png326371420#326371420#0(0"0(0#0#75"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_blue.png8633292576#537"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_blue.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_sky.png Player_Fish_sky.png
+s326358238.774558
+e326358238.814536
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_sky.png
+xPlayer_Fish_sky.png
+lSLF07#2@24"Copy Player_Fish_sky.png326358238#326358238#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_sky.png8616662784#527"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Player_Fish_sky.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Player_Fish_sky.png Resource/Player_Fish_sky.png
+s326371420.920447
+e326371420.962142
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Player_Fish_sky.png
+xResource/Player_Fish_sky.png
+lSLF07#2@33"Copy Resource/Player_Fish_sky.png326371420#326371420#0(0"0(0#0#74"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_sky.png8633654368#536"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Player_Fish_sky.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank.png Rank.png
+s326358238.699488
+e326358238.719950
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Rank.png
+xRank.png
+lSLF07#2@13"Copy Rank.png326358238#326358238#0(0"0(0#0#54"/Users/zendiya/Documents/Project_IOS/Aquarium/Rank.png8621724320#516"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Rank.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank.png Resource/Rank.png
+s326371420.839747
+e326371420.867806
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Rank.png
+xResource/Rank.png
+lSLF07#2@22"Copy Resource/Rank.png326371420#326371420#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank.png8639765664#525"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank_Menu.png Rank_Menu.png
+s326358238.670407
+e326358238.719293
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Rank_Menu.png
+xRank_Menu.png
+lSLF07#2@18"Copy Rank_Menu.png326358238#326358238#0(0"0(0#0#59"/Users/zendiya/Documents/Project_IOS/Aquarium/Rank_Menu.png8630388928#521"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Rank_Menu.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank_Menu.png Resource/Rank_Menu.png
+s326371420.750890
+e326371420.757492
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Rank_Menu.png
+xResource/Rank_Menu.png
+lSLF07#2@27"Copy Resource/Rank_Menu.png326371420#326371420#0(0"0(0#0#68"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank_Menu.png8633200800#530"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank_Menu.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank_name.png Rank_name.png
+s326358238.685949
+e326358238.719559
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Rank_name.png
+xRank_name.png
+lSLF07#2@18"Copy Rank_name.png326358238#326358238#0(0"0(0#0#59"/Users/zendiya/Documents/Project_IOS/Aquarium/Rank_name.png8623148512#521"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Rank_name.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/Rank_name.png Resource/Rank_name.png
+s326371420.759212
+e326371420.834625
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/Rank_name.png
+xResource/Rank_name.png
+lSLF07#2@27"Copy Resource/Rank_name.png326371420#326371420#0(0"0(0#0#68"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank_name.png8632844384#530"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/Rank_name.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/back512.png Resource/back512.png
+s326371420.935748
+e326371421.090029
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/back512.png
+xResource/back512.png
+lSLF07#2@25"Copy Resource/back512.png326371420#326371421#0(0"0(0#0#66"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/back512.png8632489408#528"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/back512.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/back512.png back512.png
+s326358238.827654
+e326358238.901309
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/back512.png
+xback512.png
+lSLF07#2@16"Copy back512.png326358238#326358238#0(0"0(0#0#57"/Users/zendiya/Documents/Project_IOS/Aquarium/back512.png8607640992#519"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/back512.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/back_m.mp3 Resource/back_m.mp3
+s326371420.567818
+e326371420.834308
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/back_m.mp3
+xResource/back_m.mp3
+lSLF07#2@24"Copy Resource/back_m.mp3326371420#326371420#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/back_m.mp38639758880#527"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/back_m.mp3 /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/bord.png Resource/bord.png
+s326371420.874596
+e326371420.906707
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/bord.png
+xResource/bord.png
+lSLF07#2@22"Copy Resource/bord.png326371420#326371420#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/bord.png8636171808#525"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/bord.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/bord.png bord.png
+s326358238.730517
+e326358238.756439
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/bord.png
+xbord.png
+lSLF07#2@13"Copy bord.png326358238#326358238#0(0"0(0#0#54"/Users/zendiya/Documents/Project_IOS/Aquarium/bord.png8607910432#516"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/bord.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/bubble.png Resource/bubble.png
+s326371420.960199
+e326371420.977403
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/bubble.png
+xResource/bubble.png
+lSLF07#2@24"Copy Resource/bubble.png326371420#326371420#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/bubble.png8632213760#527"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/bubble.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/bubble.png bubble.png
+s326358238.835040
+e326358238.849752
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/bubble.png
+xbubble.png
+lSLF07#2@15"Copy bubble.png326358238#326358238#0(0"0(0#0#56"/Users/zendiya/Documents/Project_IOS/Aquarium/bubble.png8635287584#518"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/bubble.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/click.wav Resource/click.wav
+s326371420.567043
+e326371420.671265
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/click.wav
+xResource/click.wav
+lSLF07#2@23"Copy Resource/click.wav326371420#326371420#0(0"0(0#0#64"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/click.wav8641249888#526"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/click.wav /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/combo.png Resource/combo.png
+s326371420.747094
+e326371420.757665
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/combo.png
+xResource/combo.png
+lSLF07#2@23"Copy Resource/combo.png326371420#326371420#0(0"0(0#0#64"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/combo.png8633300992#526"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/combo.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/combo.png combo.png
+s326358238.661247
+e326358238.719131
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/combo.png
+xcombo.png
+lSLF07#2@14"Copy combo.png326358238#326358238#0(0"0(0#0#55"/Users/zendiya/Documents/Project_IOS/Aquarium/combo.png8632028064#517"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/combo.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/combo_num.png Resource/combo_num.png
+s326371420.740429
+e326371420.746985
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/combo_num.png
+xResource/combo_num.png
+lSLF07#2@27"Copy Resource/combo_num.png326371420#326371420#0(0"0(0#0#68"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/combo_num.png8633466144#530"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/combo_num.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/combo_num.png combo_num.png
+s326358238.652927
+e326358238.660868
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/combo_num.png
+xcombo_num.png
+lSLF07#2@18"Copy combo_num.png326358238#326358238#0(0"0(0#0#59"/Users/zendiya/Documents/Project_IOS/Aquarium/combo_num.png8632375040#521"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/combo_num.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/damg.wav Resource/damg.wav
+s326371420.569359
+e326371420.867942
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/damg.wav
+xResource/damg.wav
+lSLF07#2@22"Copy Resource/damg.wav326371420#326371420#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/damg.wav8639085824#525"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/damg.wav /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/ee1.qda Resource/ee1.qda
+s326371420.692100
+e326371420.835020
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/ee1.qda
+xResource/ee1.qda
+lSLF07#2@21"Copy Resource/ee1.qda326371420#326371420#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ee1.qda8634034880#524"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ee1.qda /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/effect.png Resource/effect.png
+s326371420.914238
+e326371420.962006
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/effect.png
+xResource/effect.png
+lSLF07#2@24"Copy Resource/effect.png326371420#326371420#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/effect.png8634133184#527"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/effect.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/effect.png effect.png
+s326358238.769625
+e326358238.814373
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/effect.png
+xeffect.png
+lSLF07#2@15"Copy effect.png326358238#326358238#0(0"0(0#0#56"/Users/zendiya/Documents/Project_IOS/Aquarium/effect.png8616741248#518"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/effect.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/ek1.qda Resource/ek1.qda
+s326371420.671378
+e326371420.750790
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/ek1.qda
+xResource/ek1.qda
+lSLF07#2@21"Copy Resource/ek1.qda326371420#326371420#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ek1.qda8634699936#524"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ek1.qda /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/ek2.qda Resource/ek2.qda
+s326371420.661987
+e326371420.740311
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/ek2.qda
+xResource/ek2.qda
+lSLF07#2@21"Copy Resource/ek2.qda326371420#326371420#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ek2.qda8635086848#524"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ek2.qda /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/end.wav Resource/end.wav
+s326371420.570945
+e326371420.834757
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/end.wav
+xResource/end.wav
+lSLF07#2@21"Copy Resource/end.wav326371420#326371420#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/end.wav8636921600#524"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/end.wav /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/exit.png Resource/exit.png
+s326371420.856644
+e326371420.907624
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/exit.png
+xResource/exit.png
+lSLF07#2@22"Copy Resource/exit.png326371420#326371420#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/exit.png8636834560#525"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/exit.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/exit.png exit.png
+s326358238.724591
+e326358238.755941
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/exit.png
+xexit.png
+lSLF07#2@13"Copy exit.png326358238#326358238#0(0"0(0#0#54"/Users/zendiya/Documents/Project_IOS/Aquarium/exit.png8612654688#516"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/exit.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/help_all.png Resource/help_all.png
+s326371420.699158
+e326371420.907475
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/help_all.png
+xResource/help_all.png
+lSLF07#2@26"Copy Resource/help_all.png326371420#326371420#0(0"0(0#0#67"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/help_all.png8633701184#529"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/help_all.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/help_all.png help_all.png
+s326358238.647996
+e326358238.660727
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/help_all.png
+xhelp_all.png
+lSLF07#2@17"Copy help_all.png326358238#326358238#0(0"0(0#0#58"/Users/zendiya/Documents/Project_IOS/Aquarium/help_all.png8632597696#520"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/help_all.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/init_480_320.png Resource/init_480_320.png
+s326371420.930203
+e326371421.056712
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/init_480_320.png
+xResource/init_480_320.png
+lSLF07#2@30"Copy Resource/init_480_320.png326371420#326371421#0(0"0(0#0#71"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/init_480_320.png8632799904#533"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/init_480_320.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/init_480_320.png init_480_320.png
+s326358238.815378
+e326358238.849607
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/init_480_320.png
+xinit_480_320.png
+lSLF07#2@21"Copy init_480_320.png326358238#326358238#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/init_480_320.png8616291104#524"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/init_480_320.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/ke1.qda Resource/ke1.qda
+s326371420.642015
+e326371420.699047
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/ke1.qda
+xResource/ke1.qda
+lSLF07#2@21"Copy Resource/ke1.qda326371420#326371420#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ke1.qda8635571936#524"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ke1.qda /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/ke2.qda Resource/ke2.qda
+s326371420.644421
+e326371420.691983
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/ke2.qda
+xResource/ke2.qda
+lSLF07#2@21"Copy Resource/ke2.qda326371420#326371420#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ke2.qda8635225056#524"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/ke2.qda /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/medal.png Resource/medal.png
+s326371420.828037
+e326371420.867517
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/medal.png
+xResource/medal.png
+lSLF07#2@23"Copy Resource/medal.png326371420#326371420#0(0"0(0#0#64"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/medal.png8604406720#526"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/medal.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/medal.png medal.png
+s326358238.689094
+e326358238.719693
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/medal.png
+xmedal.png
+lSLF07#2@14"Copy medal.png326358238#326358238#0(0"0(0#0#55"/Users/zendiya/Documents/Project_IOS/Aquarium/medal.png8622361632#517"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/medal.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/menu_icon.png Resource/menu_icon.png
+s326371420.882472
+e326371420.907041
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/menu_icon.png
+xResource/menu_icon.png
+lSLF07#2@27"Copy Resource/menu_icon.png326371420#326371420#0(0"0(0#0#68"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/menu_icon.png8635683232#530"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/menu_icon.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/menu_icon.png menu_icon.png
+s326358238.744638
+e326358238.814837
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/menu_icon.png
+xmenu_icon.png
+lSLF07#2@18"Copy menu_icon.png326358238#326358238#0(0"0(0#0#59"/Users/zendiya/Documents/Project_IOS/Aquarium/menu_icon.png8601446464#521"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/menu_icon.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/menu_icon2.png Resource/menu_icon2.png
+s326371420.878983
+e326371420.906890
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/menu_icon2.png
+xResource/menu_icon2.png
+lSLF07#2@28"Copy Resource/menu_icon2.png326371420#326371420#0(0"0(0#0#69"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/menu_icon2.png8635904736#531"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/menu_icon2.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/menu_icon2.png menu_icon2.png
+s326358238.738017
+e326358238.756686
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/menu_icon2.png
+xmenu_icon2.png
+lSLF07#2@19"Copy menu_icon2.png326358238#326358238#0(0"0(0#0#60"/Users/zendiya/Documents/Project_IOS/Aquarium/menu_icon2.png8606465120#522"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/menu_icon2.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/q1.png Resource/q1.png
+s326371420.855445
+e326371420.868333
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/q1.png
+xResource/q1.png
+lSLF07#2@20"Copy Resource/q1.png326371420#326371420#0(0"0(0#0#61"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/q1.png8637528160#523"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/q1.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/q1.png q1.png
+s326358238.720171
+e326358238.755685
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/q1.png
+xq1.png
+lSLF07#2@11"Copy q1.png326358238#326358238#0(0"0(0#0#52"/Users/zendiya/Documents/Project_IOS/Aquarium/q1.png8615343424#514"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/q1.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/q2.png Resource/q2.png
+s326371420.850122
+e326371420.868201
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/q2.png
+xResource/q2.png
+lSLF07#2@20"Copy Resource/q2.png326371420#326371420#0(0"0(0#0#61"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/q2.png8637950592#523"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/q2.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/q2.png q2.png
+s326358238.714052
+e326358238.756937
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/q2.png
+xq2.png
+lSLF07#2@11"Copy q2.png326358238#326358238#0(0"0(0#0#52"/Users/zendiya/Documents/Project_IOS/Aquarium/q2.png8617172704#514"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/q2.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/result.png Resource/result.png
+s326371420.757757
+e326371420.827906
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/result.png
+xResource/result.png
+lSLF07#2@24"Copy Resource/result.png326371420#326371420#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/result.png8633085792#527"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/result.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/result.png result.png
+s326358238.680589
+e326358238.719429
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/result.png
+xresult.png
+lSLF07#2@15"Copy result.png326358238#326358238#0(0"0(0#0#56"/Users/zendiya/Documents/Project_IOS/Aquarium/result.png8624138688#518"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/result.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/score.png Resource/score.png
+s326371420.868425
+e326371420.906554
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/score.png
+xResource/score.png
+lSLF07#2@23"Copy Resource/score.png326371420#326371420#0(0"0(0#0#64"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/score.png8636450592#526"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/score.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/score.png score.png
+s326358238.725925
+e326358238.756186
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/score.png
+xscore.png
+lSLF07#2@14"Copy score.png326358238#326358238#0(0"0(0#0#55"/Users/zendiya/Documents/Project_IOS/Aquarium/score.png8609263872#517"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/score.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/vocacity.png Resource/vocacity.png
+s326371420.968760
+e326371420.981251
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/vocacity.png
+xResource/vocacity.png
+lSLF07#2@26"Copy Resource/vocacity.png326371420#326371420#0(0"0(0#0#67"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/vocacity.png8631504416#529"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/vocacity.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/vocacity.png vocacity.png
+s326358238.843253
+e326358238.849941
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/vocacity.png
+xvocacity.png
+lSLF07#2@17"Copy vocacity.png326358238#326358238#0(0"0(0#0#58"/Users/zendiya/Documents/Project_IOS/Aquarium/vocacity.png8633448512#520"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/vocacity.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/water_a.png Resource/water_a.png
+s326371420.892019
+e326371420.907188
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/water_a.png
+xResource/water_a.png
+lSLF07#2@25"Copy Resource/water_a.png326371420#326371420#0(0"0(0#0#66"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/water_a.png8635561824#528"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/water_a.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/water_a.png water_a.png
+s326358238.753111
+e326358238.814989
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/water_a.png
+xwater_a.png
+lSLF07#2@16"Copy water_a.png326358238#326358238#0(0"0(0#0#57"/Users/zendiya/Documents/Project_IOS/Aquarium/water_a.png8593951136#519"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/water_a.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/window1.png Resource/window1.png
+s326371420.907715
+e326371420.961852
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/window1.png
+xResource/window1.png
+lSLF07#2@25"Copy Resource/window1.png326371420#326371420#0(0"0(0#0#66"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/window1.png8634455424#528"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/window1.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/window1.png window1.png
+s326358238.764035
+e326358238.814214
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/window1.png
+xwindow1.png
+lSLF07#2@16"Copy window1.png326358238#326358238#0(0"0(0#0#57"/Users/zendiya/Documents/Project_IOS/Aquarium/window1.png8617067200#519"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/window1.png /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/yes.wav Resource/yes.wav
+s326371420.568581
+e326371420.834490
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/yes.wav
+xResource/yes.wav
+lSLF07#2@21"Copy Resource/yes.wav326371420#326371420#0(0"0(0#0#62"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/yes.wav8639500448#524"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/yes.wav /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CCpResource build/Distribution-iphonesimulator/Aquarium.app/yes2.wav Resource/yes2.wav
+s326371420.570157
+e326371420.661867
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Aquarium.app/yes2.wav
+xResource/yes2.wav
+lSLF07#2@22"Copy Resource/yes2.wav326371420#326371420#0(0"0(0#0#63"/Users/zendiya/Documents/Project_IOS/Aquarium/Resource/yes2.wav8638295424#525"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/zendiya/Documents/Project_IOS/Aquarium/Resource/yes2.wav /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
+CGenerateDSYMFile /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app.dSYM /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium
+s326371432.927880
+e326371433.037901
+r1
+xGenerateDSYMFile
+x/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app.dSYM
+x/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium
+lSLF07#2@126"GenerateDSYMFile build/Distribution-iphonesimulator/Aquarium.app.dSYM build/Distribution-iphonesimulator/Aquarium.app/Aquarium326371432#326371433#0(0"0(0#0#102"/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium8633732512#421"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app.dSYM0#
+
+CLd /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium normal i386
+s326371432.706792
+e326371432.927754
+r1
+xLd
+x/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium
+xnormal
+xi386
+lSLF07#2@107"Link /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium326371432#326371432#0(0"0(0#0#0"8633337472#1076"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -filelist /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Objects-normal/i386/Aquarium.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework AVFoundation -framework OpenAL -framework OpenGLES -framework QuartzCore -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Aquarium0#
+
+CProcessInfoPlistFile /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Info.plist Aquarium-Info.plist
+s326371420.540576
+e326371420.565983
+r1
+xProcessInfoPlistFile
+x/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Info.plist
+xAquarium-Info.plist
+lSLF07#2@27"Process Aquarium-Info.plist326371420#326371420#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Aquarium-Info.plist8623401056#517"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Aquarium-Info.plist -genpkginfo /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app/Info.plist0#
+
+CProcessPCH /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-asdhsylyknelklguugsoqhfextqx/Aquarium_Prefix.pch.pth Aquarium_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-dplxdjovkgnfvmfxafcladowjgmd/Aquarium_Prefix.pch.gch Aquarium_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326371421.278208
+e326371425.832647
+r1
+xProcessPCH
+x/var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-dplxdjovkgnfvmfxafcladowjgmd/Aquarium_Prefix.pch.gch
+xAquarium_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Aquarium_Prefix.pch326371421#326371425#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Aquarium_Prefix.pch8638330112#1992"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/zendiya/Documents/Project_IOS/Aquarium/Aquarium_Prefix.pch -o /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-dplxdjovkgnfvmfxafcladowjgmd/Aquarium_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch.gch Aquarium_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s326371425.832848
+e326371426.280427
+r1
+xProcessPCH++
+x/var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch.gch
+xAquarium_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Aquarium_Prefix.pch326371425#326371426#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Aquarium_Prefix.pch8600070656#1959"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/zendiya/Documents/Project_IOS/Aquarium/Aquarium_Prefix.pch -o /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-bhthqnzwzcowhmaawaagpjgnymbw/Aquarium_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch.gch Aquarium_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s326371421.279378
+e326371426.670512
+r1
+xProcessPCH++
+x/var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch.gch
+xAquarium_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Aquarium_Prefix.pch326371421#326371426#0(0"0(0#0#65"/Users/zendiya/Documents/Project_IOS/Aquarium/Aquarium_Prefix.pch8637206272#2013"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-generated-files.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-own-target-headers.hmap -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-all-target-headers.hmap -iquote /Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/Aquarium-project-headers.hmap -F/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/include -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources/i386 -I/Users/zendiya/Documents/Project_IOS/Aquarium/build/Aquarium.build/Distribution-iphonesimulator/Aquarium.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/zendiya/Documents/Project_IOS/Aquarium/Aquarium_Prefix.pch -o /var/folders/Kp/KpqtqHtcHp0KkKYsdQXru++++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/Aquarium_Prefix-gdqvnindpynzhrfvknqrultuzczc/Aquarium_Prefix.pch.gch0#
+
+CTouch /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app
+s326371433.038017
+e326371433.057471
+r1
+xTouch
+x/Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app
+lSLF07#2@99"Touch /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app326371433#326371433#0(0"0(0#0#0"8632469728#300"    cd /Users/zendiya/Documents/Project_IOS/Aquarium    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zendiya/Documents/Project_IOS/Aquarium/build/Distribution-iphonesimulator/Aquarium.app0#
+
